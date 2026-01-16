@@ -1,2 +1,3 @@
 # my_first_project_1
-first project ever! 
+
+this is my first project
